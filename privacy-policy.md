@@ -51,5 +51,5 @@ If you have any questions or concerns about this privacy policy, please contact 
 
  Developer Name: Essam Ghuraib
  App Name: ذكرك
- Email: muslimzekrak@gmail.com
+ Email: essam15gh@gmail.com
 
