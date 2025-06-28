@@ -1,40 +1,54 @@
-# Privacy Policy
+Privacy Policy for ذكرك
+Last updated: 28/6/2025
 
-I, Zkrak takes your privacy seriously. To better protect your privacy I provide this privacy policy notice explaining the way your personal information is collected and used.
+ذكرك ("the app") is developed and maintained by an individual developer. This privacy policy explains how the app handles user information, permissions, and data usage.
 
+1. No Personal Data Collection
+The app does not collect, store, or share any personally identifiable information (PII), such as your name, email, phone number, or location history.
 
-## Collection of Routine Information
+There is no user account, login, or analytics tracking in this app.
 
-This app track basic information about their users. This information includes, but is not limited to, IP addresses, app details, timestamps and referring pages. None of this information can personally identify specific user to this app. The information is tracked for routine administration and maintenance purposes.
+2. Permissions Used
+The app requires the following permissions to function as intended:
 
+ Location (Approximate or Precise)
+Used only to fetch accurate prayer times from a public API based on your current location.
 
-## Cookies
+Your location is processed locally and is never stored or shared.
 
-Where necessary, this app uses cookies to store information about a visitor’s preferences and history in order to better serve the user  and/or present the user  with customized content.
+No continuous tracking is done.
 
+ Background Location & Background Services
+Used to keep the app working in the background so that:
 
-## Advertisement and Other Third Parties
+You receive prayer time notifications even if the app is closed
 
-Advertising partners and other third parties may use cookies, scripts and/or web beacons to track user activities on this app in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This app has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
+Prayer times and azkar data stay updated
 
+No background data is collected or sent anywhere — this is for app functionality only.
 
-## Links to Third Party Websites
+ Notification Permission
+Used to send local reminders and alerts for prayer times and azkar.
+You can disable notifications at any time from your device settings.
 
-I have included links on this app for your use and reference. I are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from my own.
+3. Third-Party Services
+This app may use certain Flutter or open-source packages (e.g., geolocator, flutter_local_notifications, flutter_background_service) for core functionality.
 
+These services operate locally on your device and do not collect personal data on behalf of the developer.
 
-## Security
+4. Children’s Privacy
+The app is designed for general audiences and does not knowingly collect any information from children.
 
-The security of your personal information is important to me, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While I strive to use commercially acceptable means to protect your personal information, I cannot guarantee its absolute security.
+5. Security
+The app works mostly offline and avoids unnecessary internet access. All processing is done securely on the device whenever possible. No data is transmitted to the developer.
 
+6. Changes to This Policy
+This privacy policy may be updated in the future. Changes will be reflected in this section. Continued use of the app means you accept any updates.
 
-## Changes To This Privacy Policy
+7. Contact
+If you have any questions or concerns about this privacy policy, please contact me:
 
-This Privacy Policy is effective as of 8/6/2025 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+ Developer Name: Essam Ghuraib
+ App Name: ذكرك
+ Email: muslimzekrak@gmail.com
 
-I reserve the right to update or change my Privacy Policy at any time and you should check this Privacy Policy periodically. If I make any material changes to this Privacy Policy, I will notify you either through the email address you have provided me, or by placing a prominent notice on my app.
-
-
-## Contact Information
-
-For any questions or concerns regarding the privacy policy, please send me an email to essam15gh@gmail.com
