@@ -1,7 +1,8 @@
-Privacy Policy for ذكرك
-Last updated: 28/6/2025
+# Privacy Policy for ذكرك
 
-ذكرك ("the app") is developed and maintained by an individual developer. This privacy policy explains how the app handles user information, permissions, and data usage.
+Last updated: 28/6/2025 
+
+("the app") ذكرك is developed and maintained by an individual developer. This privacy policy explains how the app handles user information, permissions, and data usage.
 
 1. No Personal Data Collection
 The app does not collect, store, or share any personally identifiable information (PII), such as your name, email, phone number, or location history.
@@ -11,14 +12,14 @@ There is no user account, login, or analytics tracking in this app.
 2. Permissions Used
 The app requires the following permissions to function as intended:
 
- Location (Approximate or Precise)
+Location (Approximate or Precise)
 Used only to fetch accurate prayer times from a public API based on your current location.
 
 Your location is processed locally and is never stored or shared.
 
 No continuous tracking is done.
 
- Background Location & Background Services
+Background Location & Background Services
 Used to keep the app working in the background so that:
 
 You receive prayer time notifications even if the app is closed
@@ -27,7 +28,7 @@ Prayer times and azkar data stay updated
 
 No background data is collected or sent anywhere — this is for app functionality only.
 
- Notification Permission
+Notification Permission
 Used to send local reminders and alerts for prayer times and azkar.
 You can disable notifications at any time from your device settings.
 
