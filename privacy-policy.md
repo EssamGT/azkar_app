@@ -1,4 +1,5 @@
 #Privacy Policy for ذكرك
+
 Effective Date: 4/7/2025
 
 Thank you for using ذكرك, an Islamic app designed to help Muslims stay connected with their daily Azkar and prayer times.
