@@ -1,55 +1,55 @@
-# Privacy Policy for ذكرك
+#Privacy Policy for ذكرك
+Effective Date: 4/7/2025
 
-Last updated: 28/6/2025 
+Thank you for using ذكرك, an Islamic app designed to help Muslims stay connected with their daily Azkar and prayer times.
 
-("the app") ذكرك is developed and maintained by an individual developer. This privacy policy explains how the app handles user information, permissions, and data usage.
+This Privacy Policy explains how we collect, use, and protect your information.
 
-1. No Personal Data Collection
-The app does not collect, store, or share any personally identifiable information (PII), such as your name, email, phone number, or location history.
+1. Information We Collect
+a. Location Data
+We request access to your device location (approximate or precise) to calculate accurate prayer times for your specific area.
 
-There is no user account, login, or analytics tracking in this app.
+Location data is used only while the app is in use or in background (for scheduled prayer notifications) and is not stored or shared with any third party.
 
-2. Permissions Used
-The app requires the following permissions to function as intended:
+b. Background Services
+We use Android's WorkManager to schedule background tasks that trigger prayer time notifications even when the app is not actively running.
 
-Location (Approximate or Precise)
-Used only to fetch accurate prayer times from a public API based on your current location.
+These tasks do not collect personal data.
 
-Your location is processed locally and is never stored or shared.
+c. Internet Access
+The app connects to an external API to fetch prayer times based on your current location.
 
-No continuous tracking is done.
+No identifiable or personal data is transmitted — only latitude and longitude coordinates are sent to the API to return prayer time results.
 
-Background Location & Background Services
-Used to keep the app working in the background so that:
+2. How We Use Your Information
+We use the collected data solely to:
 
-You receive prayer time notifications even if the app is closed
+Display accurate prayer times.
 
-Prayer times and azkar data stay updated
+Notify you when it's time to pray.
 
-No background data is collected or sent anywhere — this is for app functionality only.
+Enhance your spiritual experience with timely Azkar and reminders.
 
-Notification Permission
-Used to send local reminders and alerts for prayer times and azkar.
-You can disable notifications at any time from your device settings.
+3. Data Sharing
+We do not sell, rent, or share your personal data with any third parties.
 
-3. Third-Party Services
-This app may use certain Flutter or open-source packages (e.g., geolocator, flutter_local_notifications, flutter_background_service) for core functionality.
+4. Data Security
+We implement reasonable technical and organizational safeguards to protect your information from unauthorized access or misuse.
 
-These services operate locally on your device and do not collect personal data on behalf of the developer.
+5. User Consent
+By using ذكرك, you consent to:
 
-4. Children’s Privacy
-The app is designed for general audiences and does not knowingly collect any information from children.
+Allowing location access for prayer time accuracy.
 
-5. Security
-The app works mostly offline and avoids unnecessary internet access. All processing is done securely on the device whenever possible. No data is transmitted to the developer.
+Running background tasks for prayer notifications.
 
-6. Changes to This Policy
-This privacy policy may be updated in the future. Changes will be reflected in this section. Continued use of the app means you accept any updates.
+6. Children’s Privacy
+This app is intended for general audiences. We do not knowingly collect personal information from children under 13.
 
-7. Contact
-If you have any questions or concerns about this privacy policy, please contact me:
+7. Changes to This Policy
+We may update this Privacy Policy from time to time. Any changes will be posted on this page, with the effective date updated accordingly.
 
- Developer Name: Essam Ghuraib
- App Name: ذكرك
- Email: essam15gh@gmail.com
+8. Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at:
 
+📧 muslimzekrak@gmail.com
