@@ -1,4 +1,4 @@
-#Privacy Policy for ذكرك
+# Privacy Policy for ذكرك
 
 Effective Date: 4/7/2025
 
